@@ -7,7 +7,7 @@ This site showcases the web development projects I've created.
 
 ## Resume
 
-View my Resume at https://github.com/codemasterbrown/developer-portfolio/assets/RaysResume-21.pdf
+View my Resume at https://github.com/codemasterbrown/developer-portfolio/blob/main/assets/RaysResume-21.pdf
 
 ## Deployed site
 
